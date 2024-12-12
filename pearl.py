@@ -183,5 +183,6 @@ for i, row in enumerate(Art):
 screen.exitonclick()
 
 screen.tracer(True)
+screen.mainloop()
 
 '''Credit to cdlane on stackoverflow.com for inspiring the method used to create this Art'''
